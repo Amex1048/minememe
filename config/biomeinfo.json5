@@ -1,0 +1,24 @@
+{
+	// true if the biome info should be shown, false otherwise
+	"enabled": false,
+	// true if the biome info should fade out shortly after a different biome has been entered. If this is set to false, the biome info will stay visible
+	"fadeOut": true,
+	// true if the biome info should fade in when a different biome has been entered
+	"fadeIn": true,
+	// How long in ticks (20 ticks = 1 second) to display the biome info, if fadeOut = true. If fadeIn = true, the time will be counted from the moment the biome info has finished fading in.
+	"displayTime": 30,
+	// The X position to display the biome info at
+	"posX": 3,
+	// The Y position to display the biome info at
+	"posY": 3,
+	// The size of the biome info (multiplier)
+	"scale": 1.0,
+	// true if the biome info should be rendered with a shadow, false otherwise
+	"textShadow": true,
+	// The color to display the biome info in (Format: 0xRRGGBB)
+	"color": 16777215,
+	// If true, hides the mod's info text when the debug screen (F3) is open.
+	"hideOnDebugScreen": true,
+	// The text alignment of the biome info.
+	"textAlignment": "LEFT"
+}
