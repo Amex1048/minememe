@@ -2,8 +2,8 @@
   "fireExplosions": true,
   "canBreach": true,
   "canLeap": true,
-  "followingRadius": 32,
-  "breachingRadius": 30,
+  "followingRadius": 24,
+  "breachingRadius": 7,
   "maxY": 320,
   "minY": -64,
   "poweredChance": 0.3

@@ -110,6 +110,10 @@ mode = "fancy"
 				spider = true
 				giant = true
 				guardian = true
+				lightning_bolt = true
+				egg = true
+				vex = true
+				warden = true
 
 			[light_sources.settings.entities.charm]
 				moobloom = true

@@ -8,5 +8,5 @@
   "coloredItems": true,
   "coloredLilypad": true,
   "potionEnchantmentGlint": true,
-  "debug": false
+  "debug": true
 }

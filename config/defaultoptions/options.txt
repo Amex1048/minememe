@@ -1,11 +1,11 @@
 version:3120
-quilt_available_resource_packs:["Immersive Weathering Generated Pack","continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","lambdabettergrass/default","programer_art","vanilla","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","visualoverhaul/rounddiscs","illuminations/lowerres","illuminations/pixelaccurate"]
+quilt_available_resource_packs:["Immersive Weathering Generated Pack","continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","lambdabettergrass/default","programer_art","vanilla","illuminations/lowerres","illuminations/pixelaccurate"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -28,7 +28,7 @@ fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
 renderDistance:12
-simulationDistance:5
+simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","lambdabettergrass/default","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","visualoverhaul/rounddiscs","Immersive Weathering Generated Pack","continuity/default","continuity/glass_pane_culling_fix","immersive_weathering/better_brick_items","immersive_weathering/better_brick_blocks","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items"]
+resourcePacks:["vanilla","Immersive Weathering Generated Pack","continuity/default","continuity/glass_pane_culling_fix","immersive_weathering/better_brick_items","immersive_weathering/better_brick_blocks","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","illuminations/pixelaccurate","lambdabettergrass/default"]
 incompatibleResourcePacks:[]
 lastServer:127.0.0.1
 lang:en_us
