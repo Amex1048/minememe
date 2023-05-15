@@ -1,6 +1,6 @@
 # Інсталяція
 1. Встановіть [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
-2. Встановіть [PollyMC](https://github.com/fn2006/PollyMC) (підтримує офлайн режим та систему авторізації elyby) або [Prism](https://github.com/PrismLauncher/PrismLauncher)
+2. Встановіть [Prism](https://github.com/PrismLauncher/PrismLauncher)
 3. Увійдіть в аккаунт зручної вам системи авторизації
 4. Додайте новий інстанс (**Add Instance**), оберіть версію Minecraft 1.19.2 та останню версію (на час написання це `0.18.1-beta25`) версію Quilt
 5. Оберіть новостворений інстанс та відкрийте його папку (кнопка **Folder** на правій панелі або папка з назвою інстансу в папці **PollyMC/instances**)
